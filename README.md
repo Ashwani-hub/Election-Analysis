@@ -4,10 +4,12 @@
 Following tasks were given by the Colorado Board of Elections, to complete the election audit of a recent local congressional election.
 
 1. Calculate the total number of votes cast.
-2. Get a complete list of candidates who received votes.
-3. Calculatge the total number of votes each candidate received.
-4. Calculate the percentage of votes each candidate won.
-5. Determine the winner of the election based on popular vote.
+2. Calculate the percentage of votes for each county.
+3. Determine the County with Largest voters turnout.
+4. Get a complete list of candidates who received votes.
+5. Calculatge the total number of votes each candidate received.
+6. Calculate the percentage of votes each candidate won.
+7. Determine the winner of the election based on popular vote.
 
 ## Resources
 - Data Source: election_results.csv
@@ -16,6 +18,7 @@ Following tasks were given by the Colorado Board of Elections, to complete the e
 ## Summary
 The analysis of the election show that:
 - There were "369,711" votes cast in the election
+- Denver had the Largest voter turnout.	
 - The candidates were:
     - Charles Casper Stockham
     - Diana DeGette
